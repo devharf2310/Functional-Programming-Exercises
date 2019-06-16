@@ -1,0 +1,11 @@
+H:\Documentos\Hugo\Functional Programming Exercises\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp2.2\FunctionalProgramming.deps.json
+H:\Documentos\Hugo\Functional Programming Exercises\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp2.2\FunctionalProgramming.runtimeconfig.json
+H:\Documentos\Hugo\Functional Programming Exercises\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp2.2\FunctionalProgramming.runtimeconfig.dev.json
+H:\Documentos\Hugo\Functional Programming Exercises\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp2.2\FunctionalProgramming.dll
+H:\Documentos\Hugo\Functional Programming Exercises\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp2.2\FunctionalProgramming.pdb
+H:\Documentos\Hugo\Functional Programming Exercises\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp2.2\FunctionalProgramming.csprojAssemblyReference.cache
+H:\Documentos\Hugo\Functional Programming Exercises\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp2.2\FunctionalProgramming.csproj.CoreCompileInputs.cache
+H:\Documentos\Hugo\Functional Programming Exercises\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp2.2\FunctionalProgramming.AssemblyInfoInputs.cache
+H:\Documentos\Hugo\Functional Programming Exercises\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp2.2\FunctionalProgramming.AssemblyInfo.cs
+H:\Documentos\Hugo\Functional Programming Exercises\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp2.2\FunctionalProgramming.dll
+H:\Documentos\Hugo\Functional Programming Exercises\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp2.2\FunctionalProgramming.pdb
